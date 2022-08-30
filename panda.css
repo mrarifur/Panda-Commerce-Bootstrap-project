@@ -1,0 +1,20 @@
+.panda-backgraound-color{
+   background-color: #fceae8; 
+}
+.panda-backgraound-watch{
+    background-color:#ffc107 ;
+}
+  
+.panda-botton-color{
+    color: white;
+    background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%) ;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
+.panda-botton-bag{
+    background-color:#198754 ;
+
+}
+  
+
